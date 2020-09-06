@@ -96,7 +96,7 @@ public class BootstrapRecipes implements ApplicationListener<ContextRefreshedEve
         guacRecipe.setDifficulty(Difficulty.EASY);
         guacRecipe.setDirections("1. Cut the avacado, remove flesh: Cut the avocados in half. Remove the pit. " +
                 "Score the inside of the avocado with a blunt knife and scoop out the flesh with a spoon. Place in a bowl." +
-                "\n" +
+                "\n\n" +
                 "2. Mash with a fork: Using a fork, roughly mash the avocado. (Don't overdo it! The guacamole should be a little chunk.)" +
                 "\n" +
                 "3. Add salt, lime juice, and the rest: Sprinkle with salt and lime (or lemon) juice. " +
